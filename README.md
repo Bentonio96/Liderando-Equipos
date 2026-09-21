@@ -37,13 +37,20 @@ as a plain document archive: one folder per module, one folder per assessment.
 .
 ├── README.md
 ├── .gitignore
-└── Modulo 1/
-    └── Sumativa 2/
-        ├── PMG531_M1_Evaluación Sumativa 2.docx   # assignment brief (provided by the course)
-        ├── PMG531_M1_Res_Grupo_03.docx            # our report — editable source
-        ├── PMG531_M1_Res_Grupo_03.pdf             # our report — submitted deliverable
-        ├── Rubrica_Sumativa_2_criterios.png       # rubric: facts, comparison, opportunities
-        └── Rubrica_Sumativa_2_formalidades.png    # rubric: writing and formal requirements
+├── Modulo 1/
+│   └── Sumativa 2/
+│       ├── PMG531_M1_Evaluación Sumativa 2.docx   # assignment brief (provided by the course)
+│       ├── PMG531_M1_Res_Grupo_03.docx            # our report — editable source
+│       ├── PMG531_M1_Res_Grupo_03.pdf             # our report — submitted deliverable
+│       ├── Rubrica_Sumativa_2_criterios.png       # rubric: facts, comparison, opportunities
+│       └── Rubrica_Sumativa_2_formalidades.png    # rubric: writing and formal requirements
+└── Modulo 2/
+    └── Sumativa 4/
+        ├── PMG531_M2_Evaluación Sumativa 4.docx   # assignment brief (provided by the course)
+        ├── PMG531_M2_Res_Grupo_03.docx            # our report — editable source
+        ├── PMG531_M2_Res_Grupo_03.pdf             # our report — submitted deliverable
+        ├── Rubrica_Sumativa_4_criterios.png       # rubric: facts, comparison, opportunities
+        └── Rubrica_Sumativa_4_formalidades.png    # rubric: writing and formal requirements
 ```
 
 Each assessment folder holds the brief, the rubric, and both the editable (`.docx`) and the
@@ -61,9 +68,42 @@ meeting minutes. The assignment asks the team to introduce the leadership constr
 the module, summarise the assigned readings, and then reflect on its own experience across three
 guiding questions: **facts**, **comparisons**, and **opportunities for growth and change**.
 
-**Required reading.** Chapter 8, *Leading Groups*, in Keyton, J., & Beck, S. J. (2022),
+**Required reading.** Chapter 8, *Leading Groups*, in Keyton, J., & Beck, S. J. (2023),
 *Communicating in Groups and Teams: Strategic Interactions* (5th ed.), Cognella Academic
 Publishing.
+
+The report also draws on Carson, Tesluk & Marrone (2007) on shared leadership, Wang, Waldman &
+Zhang (2014) on shared leadership and team effectiveness, and Edmondson (1999) on psychological
+safety.
+
+---
+
+## Module 2
+
+### Summative 4 — Integrative team discussion report
+
+The same deliverable format as Module 1, applied to a second recorded discussion. Because this is
+no longer the first module, the report must also trace the connections back to the constructs
+studied previously — in this case, showing how the relational competence and psychological safety
+of Module 1 underpin the communication climate and trust examined here.
+
+**Required reading.** Chapter 6, *Building Relationships in Groups*, in Keyton, J., & Beck, S. J.
+(2023), *Communicating in Groups and Teams: Strategic Interactions* (5th ed.), Cognella Academic
+Publishing.
+
+**Research articles.**
+
+- Buvik, M. P., & Tvedt, S. D. (2017) — trust, commitment and knowledge sharing in project teams.
+- Liao, G. Y., Pham, T. T. L., Cheng, T. C. E., & Teng, C. I. (2020) — participation, team
+  identification and commitment, from a social identity perspective.
+- Uddin, M. A., Mahmood, M., & Fan, L. (2019) — employee engagement, commitment, organisational
+  citizenship behaviour and team performance.
+
+---
+
+## Learning outcome and rubric
+
+Both assessments evaluate the same learning outcome and share an identical rubric.
 
 **Learning outcome assessed (AE1).** Analyse the challenges involved in managing a project team,
 considering its development and the strategies needed to respond effectively to organisational
@@ -82,7 +122,8 @@ needs.
 **Formal requirements.** Submitted as PDF; at most 7 letter-size pages including the
 bibliography; Arial or Calibri 11 pt; 1.15 line spacing; justified text. The filename must follow
 the pattern `CourseCode_MX_Res_Grupo_XX`, with no accents, no `ñ`, a single separator character,
-and no more than 30 characters.
+and no more than 30 characters. Each section of the report should run to between 200 and 500
+words.
 
 ---
 
