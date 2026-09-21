@@ -1,0 +1,14 @@
+# Microsoft Office lock / temp files
+~$*
+*.tmp
+*.wbk
+*.asd
+
+# OneDrive / Windows
+desktop.ini
+Thumbs.db
+ehthumbs.db
+*.lnk
+
+# macOS
+.DS_Store
