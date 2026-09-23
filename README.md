@@ -23,7 +23,7 @@ as a plain document archive: one folder per module, one folder per assessment.
 
 ## Team — Group 3
 
-- Benjamín Peña Díaz
+- Benjamín Peña Diaz
 - Cristóbal Flores Villegas
 - Cristóbal Hachim Sánchez
 - Cristopher Arredondo Canchis
@@ -82,7 +82,7 @@ safety.
 
 ### Summative 4 — Integrative team discussion report
 
-The same deliverable format as Module 1, applied to a second recorded discussion. Because this is
+The same deliverable format as Module 1, applied to a second integrative discussion. Because this is
 no longer the first module, the report must also trace the connections back to the constructs
 studied previously — in this case, showing how the relational competence and psychological safety
 of Module 1 underpin the communication climate and trust examined here.
