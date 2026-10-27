@@ -51,6 +51,12 @@ as a plain document archive: one folder per module, one folder per assessment.
         ├── PMG531_M2_Res_Grupo_03.pdf             # our report — submitted deliverable
         ├── Rubrica_Sumativa_4_criterios.png       # rubric: facts, comparison, opportunities
         └── Rubrica_Sumativa_4_formalidades.png    # rubric: writing and formal requirements
+└── Modulo 3/
+    └── Sumativa 6/
+        ├── PMG531_M3_Evaluación Sumativa 6.docx   # assignment brief (provided by the course)
+        ├── caso módulo 3.pdf                      # TechFin Solutions case study (provided by the course)
+        ├── PMG531_M3_Res_Grupo_03.docx            # our report — editable source
+        └── PMG531_M3_Res_Grupo_03.pdf             # our report — submitted deliverable
 ```
 
 Each assessment folder holds the brief, the rubric, and both the editable (`.docx`) and the
@@ -101,9 +107,35 @@ Publishing.
 
 ---
 
+## Module 3
+
+### Summative 6 — Integrative team discussion report
+
+The same deliverable format, applied to group decision making. The report connects the decision
+procedures of this module to the shared leadership and psychological safety of Module 1 and to the
+trust and knowledge sharing of Module 2. The course's TechFin Solutions case study on an agile
+transformation served as the trigger for the discussion.
+
+**Required reading.** Chapter 5, *Decision Making*, in Keyton, J., & Beck, S. J. (2023),
+*Communicating in Groups and Teams: Strategic Interactions* (5th ed.), Cognella Academic
+Publishing.
+
+**Research articles.**
+
+- Tabassi, A. A., Abdullah, A., & Bryde, D. J. (2019) — conflict management, team coordination and
+  performance in multicultural temporary projects.
+- Guinan, P. J., Parise, S., & Langowitz, N. (2019) — levers for building an innovative digital
+  project team.
+- Hidalgo, E. S. (2019) — adapting Scrum to manage a distributed research initiative.
+
+The Module 3 folder holds no rubric images; the grading criteria below are assumed to match those of
+the previous modules.
+
+---
+
 ## Learning outcome and rubric
 
-Both assessments evaluate the same learning outcome and share an identical rubric.
+The assessments evaluate the same learning outcome and share an identical rubric.
 
 **Learning outcome assessed (AE1).** Analyse the challenges involved in managing a project team,
 considering its development and the strategies needed to respond effectively to organisational
