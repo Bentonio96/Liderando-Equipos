@@ -44,19 +44,30 @@ as a plain document archive: one folder per module, one folder per assessment.
 │       ├── PMG531_M1_Res_Grupo_03.pdf             # our report — submitted deliverable
 │       ├── Rubrica_Sumativa_2_criterios.png       # rubric: facts, comparison, opportunities
 │       └── Rubrica_Sumativa_2_formalidades.png    # rubric: writing and formal requirements
-└── Modulo 2/
-    └── Sumativa 4/
-        ├── PMG531_M2_Evaluación Sumativa 4.docx   # assignment brief (provided by the course)
-        ├── PMG531_M2_Res_Grupo_03.docx            # our report — editable source
-        ├── PMG531_M2_Res_Grupo_03.pdf             # our report — submitted deliverable
-        ├── Rubrica_Sumativa_4_criterios.png       # rubric: facts, comparison, opportunities
-        └── Rubrica_Sumativa_4_formalidades.png    # rubric: writing and formal requirements
-└── Modulo 3/
-    └── Sumativa 6/
-        ├── PMG531_M3_Evaluación Sumativa 6.docx   # assignment brief (provided by the course)
-        ├── caso módulo 3.pdf                      # TechFin Solutions case study (provided by the course)
-        ├── PMG531_M3_Res_Grupo_03.docx            # our report — editable source
-        └── PMG531_M3_Res_Grupo_03.pdf             # our report — submitted deliverable
+├── Modulo 2/
+│   └── Sumativa 4/
+│       ├── PMG531_M2_Evaluación Sumativa 4.docx   # assignment brief (provided by the course)
+│       ├── PMG531_M2_Res_Grupo_03.docx            # our report — editable source
+│       ├── PMG531_M2_Res_Grupo_03.pdf             # our report — submitted deliverable
+│       ├── Rubrica_Sumativa_4_criterios.png       # rubric: facts, comparison, opportunities
+│       └── Rubrica_Sumativa_4_formalidades.png    # rubric: writing and formal requirements
+├── Modulo 3/
+│   └── Sumativa 6/
+│       ├── PMG531_M3_Evaluación Sumativa 6.docx   # assignment brief (provided by the course)
+│       ├── caso módulo 3.pdf                      # TechFin Solutions case study (provided by the course)
+│       ├── PMG531_M3_Res_Grupo_03.docx            # our report — editable source
+│       └── PMG531_M3_Res_Grupo_03.pdf             # our report — submitted deliverable
+├── Modulo 4/
+│   └── Sumativa 8/
+│       ├── PMG531_M4_Evaluación Sumativa 8.docx   # assignment brief (provided by the course)
+│       ├── PMG531_M4_Grupo_03.docx                # our report — editable source
+│       └── PMG531_M4_Grupo_03.pdf                 # our report — submitted deliverable
+└── Modulo 5/
+    └── Sumativa 10/
+        ├── PMG531_M5_Evaluación Sumativa 10.docx  # assignment brief (provided by the course)
+        ├── Materiales_M5.png                      # learning materials listed for the module
+        ├── PMG531_M5_Grupo_03.docx                # our report — editable source
+        └── PMG531_M5_Grupo_03.pdf                 # our report — submitted deliverable
 ```
 
 Each assessment folder holds the brief, the rubric, and both the editable (`.docx`) and the
@@ -128,8 +139,52 @@ Publishing.
   project team.
 - Hidalgo, E. S. (2019) — adapting Scrum to manage a distributed research initiative.
 
-The Module 3 folder holds no rubric images; the grading criteria below are assumed to match those of
-the previous modules.
+The Module 3 to 5 folders hold no rubric images; the grading criteria below are assumed to match
+those of the earlier modules.
+
+---
+
+## Module 4
+
+### Summative 8 — Integrative team discussion report
+
+The same deliverable format, applied to how a team shares what it knows: information sharing, the
+common knowledge effect, transactive memory and the choice of communication channel. The brief for
+this module drops "Res" from the required filename pattern, so the report is named
+`PMG531_M4_Grupo_03`.
+
+**Required reading.** Chapter 4, *How We Communicate What We Know*, in Keyton, J., & Beck, S. J.
+(2023), *Communicating in Groups and Teams: Strategic Interactions* (5th ed.), Cognella Academic
+Publishing.
+
+**Research articles.**
+
+- Cooper, R. G., & Sommer, A. F. (2018) — integrating Agile methods into a Stage-Gate system in
+  manufacturing firms.
+- Radujković, M., & Sjekavica, M. (2017) — project management success versus project success.
+- Martens, C. D. P., Machado, F. J., Martens, M. L., Silva, F. Q. P. de O. e, & Freitas, H. M. R. de
+  (2018) — entrepreneurial orientation and project success.
+
+---
+
+## Module 5
+
+### Summative 10 — Integrative team discussion report
+
+The same deliverable format, applied to conflict management: types of conflict, conflict styles,
+communication norms and the effects of diversity. It keeps the Module 4 filename pattern.
+
+**Required reading.** Chapter 7, *Managing Conflict in Groups*, in Keyton, J., & Beck, S. J. (2023),
+*Communicating in Groups and Teams: Strategic Interactions* (5th ed.), Cognella Academic Publishing.
+
+**Research articles.**
+
+- Henderson, L. S., Stackman, R. W., & Lindekilde, R. (2018) — cultural intelligence on global
+  project teams.
+- Taras, V., Baack, D., Caprar, D., Dow, D., Froese, F., Jimenez, A., & Magnusson, P. (2019) —
+  personal versus contextual diversity in global virtual teams.
+- Reddy, S. M. W., et al. (2021) — social capital from project team assignments and the adoption of
+  sustainability practices.
 
 ---
 
@@ -161,7 +216,8 @@ words.
 
 ## Conventions
 
-- Deliverables are named `PMG531_M<module>_Res_Grupo_03`, matching the course's required pattern.
+- Deliverables are named after the pattern each brief requires: `PMG531_M<module>_Res_Grupo_03`
+  for Modules 1 to 3 and `PMG531_M<module>_Grupo_03` from Module 4 on.
 - Every deliverable is committed in both `.docx` and `.pdf`; the PDF is the version submitted
   through Canvas.
 - Sources are cited in APA 7th edition style.
