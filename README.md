@@ -62,12 +62,21 @@ as a plain document archive: one folder per module, one folder per assessment.
 │       ├── PMG531_M4_Evaluación Sumativa 8.docx   # assignment brief (provided by the course)
 │       ├── PMG531_M4_Grupo_03.docx                # our report — editable source
 │       └── PMG531_M4_Grupo_03.pdf                 # our report — submitted deliverable
-└── Modulo 5/
-    └── Sumativa 10/
-        ├── PMG531_M5_Evaluación Sumativa 10.docx  # assignment brief (provided by the course)
-        ├── Materiales_M5.png                      # learning materials listed for the module
-        ├── PMG531_M5_Grupo_03.docx                # our report — editable source
-        └── PMG531_M5_Grupo_03.pdf                 # our report — submitted deliverable
+├── Modulo 5/
+│   └── Sumativa 10/
+│       ├── PMG531_M5_Evaluación Sumativa 10.docx  # assignment brief (provided by the course)
+│       ├── Materiales_M5.png                      # learning materials listed for the module
+│       ├── PMG531_M5_Grupo_03.docx                # our report — editable source
+│       └── PMG531_M5_Grupo_03.pdf                 # our report — submitted deliverable
+└── Modulo 6/
+    ├── Sumativa 11/
+    │   ├── PMG531_Ev16_Auto y coevaluacion.xlsx   # self- and peer-assessment form (provided by the course)
+    │   ├── PMG531_M6_Coev_BPena.xlsx              # Benjamín's completed form — individual deliverable
+    │   └── BORRADOR_Sumativa_11.md                # proposed scores and comment, to review before submitting
+    └── Sumativa 12/
+        ├── PMG531_M6_Evaluación Sumativa 12.docx  # assignment brief (provided by the course)
+        ├── PMG531_M6_Grupo_03.docx                # our portfolio — editable source
+        └── PMG531_M6_Grupo_03.pdf                 # our portfolio — submitted deliverable
 ```
 
 Each assessment folder holds the brief, the rubric, and both the editable (`.docx`) and the
@@ -188,9 +197,52 @@ communication norms and the effects of diversity. It keeps the Module 4 filename
 
 ---
 
+## Module 6 — Final team project
+
+The closing module has no new reading. It consolidates the course in two assessments, worth 10 % and 30 % of
+the final grade respectively. Canvas shows no due date for either.
+
+### Summative 11 — Self- and peer-assessment (30 points)
+
+An individual Excel form provided by the course. Each student scores themselves and every teammate on six
+criteria (attendance and punctuality, contribution to discussions, completing tasks on time, weekly preparation,
+cooperative attitude, contribution to the project's success), each on a 0/1/3/4/5 scale, and may add a free-text
+comment. Each member submits their own file.
+
+### Summative 12 — Portfolio (138 points)
+
+A group report built on the three research articles of one module. The team chose **Module 3** (team dynamics and
+decision making). For each article the report identifies one construct with three subcomponents, the article's
+recommendations, and at least three possible applications in organisations the team knows. It also includes an
+introduction that ties the readings together, the three main things the team learned during the course (including
+which assumptions about team leadership changed), a conclusion summarising the readings, and an index.
+
+**Articles.**
+
+- Tabassi, A. A., Abdullah, A., & Bryde, D. J. (2019) — leader's conflict management style, team coordination and
+  performance in multicultural temporary construction projects.
+- Guinan, P. J., Parise, S., & Langowitz, N. (2019) — levers for building an innovative digital project team.
+- Hidalgo, E. S. (2019) — adapting Scrum to a distributed research initiative.
+
+**Rubric — 138 points.**
+
+| Criterion | Points |
+|---|---:|
+| Per article: subcomponents 1–3 (three or more relevant points each), recommendations (three or more), applications (three or more) — 5 × 6 points × 3 articles | 90 |
+| Main learnings (at least three) | 24 |
+| Introduction, index and conclusion | 12 |
+| Writing and spelling | 6 |
+| Formal requirements (format, APA, deadline) | 6 |
+
+**Formal requirements.** PDF, at most 12 letter-size pages including the bibliography, Arial or Calibri 11 pt,
+1.15 line spacing, justified text, filename `PMG531_MX_Grupo_XX`. Each construct should run to between 500 and
+1,000 words, and the introduction, learnings and conclusion to about 1,000 words each.
+
+---
+
 ## Learning outcome and rubric
 
-The assessments evaluate the same learning outcome and share an identical rubric.
+The Module 1 to 5 reports evaluate the same learning outcome and share an identical rubric.
 
 **Learning outcome assessed (AE1).** Analyse the challenges involved in managing a project team,
 considering its development and the strategies needed to respond effectively to organisational
