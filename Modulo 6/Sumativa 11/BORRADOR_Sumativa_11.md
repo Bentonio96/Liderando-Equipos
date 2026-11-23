@@ -1,4 +1,4 @@
-# Sumativa 11: Autoevaluación y coevaluación (BORRADOR, revisar antes de subir)
+# Sumativa 11: Autoevaluación y coevaluación (versión entregada)
 
 **Qué se entrega:** el Excel del curso completado de forma individual, subido como archivo a la tarea de Canvas
 (`online_upload`). No es un cuestionario en línea. Canvas no muestra fecha de entrega para esta tarea.
@@ -38,12 +38,10 @@ compañeros.
 ## Comentario adicional (celda A27, en primera persona)
 
 > Fue un equipo parejo y comprometido. Rotamos la facilitación y el registro de las actas en los cinco módulos, de
-> modo que cada integrante condujo al menos una discusión y redactó al menos un acta, y todas las entregas llegaron a
-> tiempo. En mi autoevaluación me asigno 4 puntos en la preparación semana a semana, porque en algunas semanas llegué
-> a la sesión con la lectura revisada pero sin mis notas de aplicación listas, y lo compensé después en la redacción
-> del acta. Destaco de mis compañeros la disposición a escuchar y a dividir el trabajo de forma equitativa; como
+> modo que cada integrante condujo al menos una discusión y redactó al menos un acta, y cada acta quedó terminada con el
+> aporte de todos. En mi autoevaluación me asigno 4 puntos en la preparación semana a semana, porque creo que habría podido llegar
+> a cada sesión con mis notas de aplicación más trabajadas. Destaco de mis compañeros la disposición a escuchar y a dividir el trabajo de forma equitativa; como
 > mejora para un próximo equipo, propondría fijar desde la primera semana una fecha interna de borrador, dos días
 > antes del plazo, para revisar el documento con más calma.
 
-La frase sobre las notas de aplicación es una suposición para justificar el 4. Si no es cierta, cámbiala o sube el
-puntaje a 5.
+Versión final, entregada el 23-nov-2026. La justificación del 4 se dejó como opinión propia y no como un hecho.

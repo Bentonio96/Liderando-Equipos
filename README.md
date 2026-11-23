@@ -72,7 +72,7 @@ as a plain document archive: one folder per module, one folder per assessment.
     ├── Sumativa 11/
     │   ├── PMG531_Ev16_Auto y coevaluacion.xlsx   # self- and peer-assessment form (provided by the course)
     │   ├── PMG531_M6_Coev_BPena.xlsx              # Benjamín's completed form — individual deliverable
-    │   └── BORRADOR_Sumativa_11.md                # proposed scores and comment, to review before submitting
+    │   └── BORRADOR_Sumativa_11.md                # scores and comment as submitted
     └── Sumativa 12/
         ├── PMG531_M6_Evaluación Sumativa 12.docx  # assignment brief (provided by the course)
         ├── PMG531_M6_Grupo_03.docx                # our portfolio — editable source
